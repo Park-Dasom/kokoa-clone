@@ -1,0 +1,45 @@
+.user-component__text i {
+  color: tomato;
+  margin-left: 7px;
+}
+
+.more-screen .icon-row {
+  margin-top: 35px;
+}
+
+.more-suggestions {
+  margin-top: 50px;
+  border-top: var(--main-border);
+  padding-top: 40px;
+}
+
+.more-suggestions__title {
+  margin-bottom: 30px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.more-suggestions__icons {
+  display: flex;
+  align-items: center;
+  padding: 0px 8px;
+}
+
+.more-suggestions__icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 30px;
+}
+.more-suggestions__icon img {
+  width: 55px;
+  height: 55px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.more-suggestions__icon span {
+  color: rgba(0, 0, 0, 0.5);
+  font-weight: 600;
+}
