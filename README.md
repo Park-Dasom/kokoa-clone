@@ -1,3 +1,11 @@
 # Kokoa Clone 2020 Update
 
-CSS got so much better!
+Made Kakao talk clone
+
+Using 
+ - HTML
+ - CSS
+
+Learned
+ - Basic HTML
+ - Basic CSS
